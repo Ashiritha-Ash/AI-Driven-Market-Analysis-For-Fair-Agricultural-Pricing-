@@ -1,0 +1,5 @@
+{
+  "name": "AgriMarket AI",
+  "description": "AI-Driven Market Analysis for Fair Agricultural Pricing. Predicts vegetable prices using historical data and Gemini AI analysis.",
+  "requestFramePermissions": []
+}
